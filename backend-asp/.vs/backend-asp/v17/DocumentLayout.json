@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "backend-asp\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "backend-asp\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwDQAAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wDQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T13:22:12.773Z",
               "IsPinned": true,
@@ -146,7 +146,8 @@
               "RelativeToolTip": "backend-asp\\Infrastructure\\Repository\\Implementation\\ProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:02:57.976Z"
+              "WhenOpened": "2024-06-24T15:02:57.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -170,7 +171,8 @@
               "RelativeToolTip": "backend-asp\\Commands\\ProductCommands\\Handlers\\AddProductCommandHandler.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAhwBMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:02:01.58Z"
+              "WhenOpened": "2024-06-24T15:02:01.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
