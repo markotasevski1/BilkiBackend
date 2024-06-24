@@ -3,46 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\infrastructure\\repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\infrastructure\\repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\commands\\productcommands\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\commands\\productcommands\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\infrastructure\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\infrastructure\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\commands\\productcommands\\requests\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\commands\\productcommands\\requests\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marko\\AppData\\Local\\Temp\\ShopDb.Product.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marko\\AppData\\Local\\Temp\\ShopDb.Category(2).data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\queries\\product\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\queries\\product\\handlers\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\queries\\product\\handlers\\getproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\queries\\product\\handlers\\getproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\queries\\product\\handlers\\getproductsbycategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\queries\\product\\handlers\\getproductsbycategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\commands\\category\\handler\\createnewcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\commands\\category\\handler\\createnewcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,134 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "backend-asp\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wDQAAAAJAAAA",
+              "Title": "CreateNewCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
+              "RelativeToolTip": "backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T13:22:12.773Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-06-24T18:56:36.436Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShopDb.Category(2).data ",
-              "DocumentMoniker": "C:\\Users\\marko\\AppData\\Local\\Temp\\ShopDb.Category(2).data.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ShopDb.Category(2).data.sql",
-              "ToolTip": "ShopDb.Category(2).data *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-24T15:18:00.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShopDb.Product.data ",
-              "DocumentMoniker": "C:\\Users\\marko\\AppData\\Local\\Temp\\ShopDb.Product.data.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ShopDb.Product.data.sql",
-              "ToolTip": "ShopDb.Product.data *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-24T15:14:47.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetProductsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Queries\\Product\\Handlers\\GetProductsQueryHandler.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Queries\\Product\\Handlers\\GetProductsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Queries\\Product\\Handlers\\GetProductsQueryHandler.cs",
-              "RelativeToolTip": "backend-asp\\Queries\\Product\\Handlers\\GetProductsQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:06:44.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetProductsByCategoryQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Queries\\Product\\Handlers\\GetProductsByCategoryQueryHandler.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Queries\\Product\\Handlers\\GetProductsByCategoryQueryHandler.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Queries\\Product\\Handlers\\GetProductsByCategoryQueryHandler.cs",
-              "RelativeToolTip": "backend-asp\\Queries\\Product\\Handlers\\GetProductsByCategoryQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:06:43.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetProductQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Queries\\Product\\Handlers\\GetProductQueryHandler.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Queries\\Product\\Handlers\\GetProductQueryHandler.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Queries\\Product\\Handlers\\GetProductQueryHandler.cs",
-              "RelativeToolTip": "backend-asp\\Queries\\Product\\Handlers\\GetProductQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:06:41.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddProductCommand.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\ProductCommands\\Requests\\AddProductCommand.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Commands\\ProductCommands\\Requests\\AddProductCommand.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\ProductCommands\\Requests\\AddProductCommand.cs",
-              "RelativeToolTip": "backend-asp\\Commands\\ProductCommands\\Requests\\AddProductCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:04:35.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Infrastructure\\Repository\\Implementation\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Infrastructure\\Repository\\Implementation\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Infrastructure\\Repository\\Implementation\\ProductRepository.cs",
-              "RelativeToolTip": "backend-asp\\Infrastructure\\Repository\\Implementation\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:02:57.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Infrastructure\\Repository\\Interface\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Infrastructure\\Repository\\Interface\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Infrastructure\\Repository\\Interface\\IProductRepository.cs",
-              "RelativeToolTip": "backend-asp\\Infrastructure\\Repository\\Interface\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:02:25.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddProductCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\ProductCommands\\Handlers\\AddProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Commands\\ProductCommands\\Handlers\\AddProductCommandHandler.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\ProductCommands\\Handlers\\AddProductCommandHandler.cs",
-              "RelativeToolTip": "backend-asp\\Commands\\ProductCommands\\Handlers\\AddProductCommandHandler.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAhwBMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:02:01.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Models\\Category.cs",
-              "RelativeToolTip": "backend-asp\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T14:58:06.903Z"
             }
           ]
         }

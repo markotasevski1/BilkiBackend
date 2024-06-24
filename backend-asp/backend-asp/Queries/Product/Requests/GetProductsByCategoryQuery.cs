@@ -1,16 +1,11 @@
 ﻿using MediatR;
 using System.Collections.Generic;
 using backend_asp.Models;
-
+using ProductModel = backend_asp.Models.Product;
 namespace backend_asp.Queries.Product.Requests
 {
-    public class GetProductsByCategoryQuery : IRequest<List<backend_asp.Models.Product>>
+    public class GetProductsByCategoryQuery(string category) : IRequest<List<ProductModel>>
     {
-        public int Category { get; set; }
-
-        public GetProductsByCategoryQuery(int category)
-        {
-            Category = category;
-        }
+        public string Category { get; set; } = category;
     }
 }

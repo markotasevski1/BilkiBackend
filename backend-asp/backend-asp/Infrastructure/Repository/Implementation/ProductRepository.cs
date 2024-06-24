@@ -33,5 +33,24 @@ namespace backend_asp.Infrastructure.Repository.Implementation
             }
             return Result.Success();
         }
+
+        public async Task<List<Product>> GetProductsByCategoryAsync(string categoryName)
+        {
+            return await _context.Products.Where(x=>x.Category.Name == categoryName).ToListAsync();
+        }
+
+        public async Task<Result> DeleteProductById(int id)
+        {
+            var product = await _context.Products.FindAsync(id);
+            if (product == null)
+            {
+                return Result.Failure(new Error("ProductNotFound", "Product not found."));
+            }
+
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync();
+
+            return Result.Success();
+        }
     }
 }

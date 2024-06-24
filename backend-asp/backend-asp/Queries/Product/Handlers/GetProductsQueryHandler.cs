@@ -11,14 +11,10 @@ using ProductModel = backend_asp.Models.Product;
 
 namespace backend_asp.Queries.Product.Handlers
 {
-    public class GetProductsQueryHandler : IRequestHandler<GetProductsQuery, List<ProductModel>>
+    public class GetProductsQueryHandler(IProductRepository productRepository) : IRequestHandler<GetProductsQuery, List<ProductModel>>
     {
-        private readonly IProductRepository _productRepository;
+        private readonly IProductRepository _productRepository = productRepository;
 
-        public GetProductsQueryHandler(IProductRepository productRepository)
-        {
-            _productRepository = productRepository;
-        }
         public async Task<List<ProductModel>> Handle(GetProductsQuery query, CancellationToken cancellationToken)
         {
             List<ProductModel> products = await _productRepository.GetAllAsync();

@@ -10,6 +10,11 @@ namespace backend_asp.Infrastructure.Repository.Interface
         Task<Product> GetByIdAsync(int id);
 
         Task<Result> CreateProduct(Product product);
+
+        Task<Result> DeleteProductById(int id);
+
         Task<List<Product>> GetAllAsync();
+
+        Task<List<Product>> GetProductsByCategoryAsync(string categoryName);
     }
 }

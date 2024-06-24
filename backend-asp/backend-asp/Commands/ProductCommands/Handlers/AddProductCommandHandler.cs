@@ -7,14 +7,9 @@ using MediatR;
 
 namespace backend_asp.Commands.ProductCommands.Handlers
 {
-    public class AddProductCommandHandler : IRequestHandler<AddProductCommand, Result>
+    public class AddProductCommandHandler(IProductRepository productRepository) : IRequestHandler<AddProductCommand, Result>
     {
-        private readonly IProductRepository _productRepository;
-
-        public AddProductCommandHandler(IProductRepository productRepository)
-        {
-            _productRepository = productRepository;
-        }
+        private readonly IProductRepository _productRepository = productRepository;
 
         public Task<Result> Handle(AddProductCommand command, CancellationToken cancellationToken)
         {
