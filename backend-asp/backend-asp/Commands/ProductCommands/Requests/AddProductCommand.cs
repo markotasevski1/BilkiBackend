@@ -7,11 +7,11 @@ namespace backend_asp.Commands.ProductCommands.Requests
 {
     public sealed record AddProductCommand : IRequest<Result>
     {
-        public Product addProduct { get; set; }
+        public Product Product { get; set; }
 
         public AddProductCommand(Product product)
         {
-            addProduct = product;
+            Product = product;
         }
     }
 }

@@ -137,3 +137,4 @@ C:\Users\marko\OneDrive\Desktop\ecommerce\backend\backend-asp\backend-asp\obj\De
 C:\Users\marko\OneDrive\Desktop\ecommerce\backend\backend-asp\backend-asp\obj\Debug\net8.0\backend-asp.pdb
 C:\Users\marko\OneDrive\Desktop\ecommerce\backend\backend-asp\backend-asp\obj\Debug\net8.0\backend-asp.genruntimeconfig.cache
 C:\Users\marko\OneDrive\Desktop\ecommerce\backend\backend-asp\backend-asp\obj\Debug\net8.0\ref\backend-asp.dll
+C:\Users\marko\OneDrive\Desktop\ecommerce\backend\backend-asp\backend-asp\obj\Debug\net8.0\backend-asp.sourcelink.json

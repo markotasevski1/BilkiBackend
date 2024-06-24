@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using backend_asp.Abstraction.Common;
 
 namespace backend_asp.Infrastructure.Repository.Implementation
 {
@@ -20,6 +21,17 @@ namespace backend_asp.Infrastructure.Repository.Implementation
         public async Task<List<Product>> GetAllAsync()
         {
             return await _context.Products.ToListAsync();
+        }
+
+        public async Task<Result> CreateProduct(Product product)
+        {
+            var test = await _context.Products.AddAsync(product);
+
+            if(test != null)
+            {
+                await _context.SaveChangesAsync();
+            }
+            return Result.Success();
         }
     }
 }
