@@ -3,6 +3,7 @@ using backend_asp.Commands.ProductCommands.Requests;
 using backend_asp.Models;
 using backend_asp.Queries.Product.Requests;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProductModel = backend_asp.Models.Product;
 

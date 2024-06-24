@@ -1,6 +1,12 @@
-﻿namespace backend_asp.Controllers
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+
+namespace backend_asp.Controllers
 {
-    public class AuthController
+    [Route("api/auth")]
+    [ApiController]
+    [AllowAnonymous]
+    public class AuthController : ControllerBase
     {
     }
 }

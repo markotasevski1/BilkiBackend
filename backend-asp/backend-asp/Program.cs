@@ -1,8 +1,11 @@
 using backend_asp.Infrastructure.Persistance;
 using backend_asp.Registers;
 using MediatR;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+using backend_asp.Models.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +15,14 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAuthorization();
+builder.Services.AddAuthentication().AddCookie(IdentityConstants.ApplicationScheme)
+    .AddBearerToken(IdentityConstants.BearerScheme);
+
+builder.Services.AddIdentityCore<BaseUser>().AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddApiEndpoints();
+
 
 builder.Services.RegisterRepository(builder.Configuration);
 
@@ -44,9 +55,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
     app.UseCors("CorsPolicy");
 }
+app.MapIdentityApi<BaseUser>();
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

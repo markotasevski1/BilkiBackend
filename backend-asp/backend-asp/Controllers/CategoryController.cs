@@ -5,22 +5,17 @@ using backend_asp.Queries.Category.Requests;
 using Microsoft.AspNetCore.Mvc;
 using backend_asp.Abstraction.Common;
 using backend_asp.Commands.Category.Request;
+using Microsoft.AspNetCore.Authorization;
 
 namespace backend_asp.Controllers
 {
     [ApiController]
     [Route("category")]
-    public class CategoryController : ControllerBase
+    public class CategoryController(IMediator mediator, ILogger<ProductsController> logger) : ControllerBase
     {
 
-        private readonly ILogger<ProductsController> _logger;
-        private readonly IMediator _mediator;
-
-        public CategoryController(IMediator mediator, ILogger<ProductsController> logger)
-        {
-            _logger = logger;
-            _mediator = mediator;
-        }
+        private readonly ILogger<ProductsController> _logger = logger;
+        private readonly IMediator _mediator = mediator;
 
         [HttpGet]
         public async Task<List<Category>> GetAllCategories()

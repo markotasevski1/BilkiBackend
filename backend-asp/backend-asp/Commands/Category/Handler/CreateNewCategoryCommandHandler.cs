@@ -10,6 +10,7 @@ namespace backend_asp.Commands.Category.Handler
     {
         private readonly ICategoryRepository _categoryRepository = categoryRepository;
 
+
         public Task<Result> Handle(CreateNewCategoryCommand request, CancellationToken cancellationToken)
         {
             return _categoryRepository.CreateCategory(request.Category);

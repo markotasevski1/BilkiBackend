@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\commands\\category\\handler\\createnewcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\commands\\category\\handler\\createnewcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\migrations\\20240624213339_defaultschemaaddedtest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\migrations\\20240624213339_defaultschemaaddedtest6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\models\\configuration\\shoppingcartmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\models\\configuration\\shoppingcartmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\models\\configuration\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\models\\configuration\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\migrations\\20240624210456_defaultschemaaddedtest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\migrations\\20240624210456_defaultschemaaddedtest4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|c:\\users\\marko\\onedrive\\desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\migrations\\20240624210130_defaultschemaaddedtest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10214E2-5943-4502-BA7B-9A43A1A83433}|backend-asp\\backend-asp.csproj|solutionrelative:backend-asp\\migrations\\20240624210130_defaultschemaaddedtest3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +51,111 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateNewCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
-              "RelativeToolTip": "backend-asp\\Commands\\Category\\Handler\\CreateNewCategoryCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "20240624213339_DefaultSchemaAddedTest6.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Migrations\\20240624213339_DefaultSchemaAddedTest6.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Migrations\\20240624213339_DefaultSchemaAddedTest6.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Migrations\\20240624213339_DefaultSchemaAddedTest6.cs",
+              "RelativeToolTip": "backend-asp\\Migrations\\20240624213339_DefaultSchemaAddedTest6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:56:36.436Z",
+              "WhenOpened": "2024-06-24T21:33:39.18Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "backend-asp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:33:25.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "backend-asp\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:33:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Program.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Program.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Program.cs",
+              "RelativeToolTip": "backend-asp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:07:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartMapping.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Models\\Configuration\\ShoppingCartMapping.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Models\\Configuration\\ShoppingCartMapping.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Models\\Configuration\\ShoppingCartMapping.cs",
+              "RelativeToolTip": "backend-asp\\Models\\Configuration\\ShoppingCartMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:07:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryMapping.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Models\\Configuration\\CategoryMapping.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Models\\Configuration\\CategoryMapping.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Models\\Configuration\\CategoryMapping.cs",
+              "RelativeToolTip": "backend-asp\\Models\\Configuration\\CategoryMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:07:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240624210456_DefaultSchemaAddedTest4.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Migrations\\20240624210456_DefaultSchemaAddedTest4.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Migrations\\20240624210456_DefaultSchemaAddedTest4.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Migrations\\20240624210456_DefaultSchemaAddedTest4.cs",
+              "RelativeToolTip": "backend-asp\\Migrations\\20240624210456_DefaultSchemaAddedTest4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:04:56.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend-asp\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:04:28.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240624210130_DefaultSchemaAddedTest3.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Migrations\\20240624210130_DefaultSchemaAddedTest3.cs",
+              "RelativeDocumentMoniker": "backend-asp\\Migrations\\20240624210130_DefaultSchemaAddedTest3.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive\\Desktop\\ecommerce\\backend\\backend-asp\\backend-asp\\Migrations\\20240624210130_DefaultSchemaAddedTest3.cs",
+              "RelativeToolTip": "backend-asp\\Migrations\\20240624210130_DefaultSchemaAddedTest3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:01:30.1Z"
             }
           ]
         }
